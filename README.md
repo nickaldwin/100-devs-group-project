@@ -1,4 +1,4 @@
-# A full-stack social network app project 
+# A full-stack social network project 
 
 # Install
 
