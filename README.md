@@ -1,6 +1,6 @@
 # A full-stack social network project
 
-- tech stack : html, css, Javascript, node.js, express 
+- tech stack : html, css, Javascript, node.js, express & NPM 
 
 # Install
 
