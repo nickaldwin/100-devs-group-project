@@ -1,6 +1,6 @@
 # A full-stack social network project
 
-- tech stack : html css, Javascript, node.js, express, NPM & mongodb
+- tech stack : html css, Javascript, EJS, node.js, express, NPM & mongodb
 
 # Install
 `npm install` 
