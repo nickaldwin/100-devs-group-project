@@ -1,10 +1,5 @@
 # A full-stack social network project
 
-- tech stack : html css, Javascript, EJS, node.js, express, NPM & mongodb
-
-# Install
-`npm install` 
-
 ---
 
 # Things to add
@@ -19,3 +14,21 @@
 
 # Run
 `npm start` 
+
+
+## How It's Made:
+
+**Tech used:** EJS HTML,  CSS , JavaScript, Node.js, Express, MongoDB, Mongoose, Multer, Passport.js
+
+## Optimizations
+
+
+## Lessons Learned:
+ 
+
+## Examples:
+
+
+
+
+
